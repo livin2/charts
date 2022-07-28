@@ -1,4 +1,4 @@
 image:
   pullPolicy: IfNotPresent
   repository: linuxserver/qbittorrent
-  tag: 4.4.3
+  tag: 4.1.9.99201911190849-6738-0b055d8ubuntu18.04.1-ls54
